@@ -4,17 +4,17 @@ An image-based tournament tool. Upload images of your favorite characters, foods
 
 How to use
 
-	1.	Choose a round size
-	2.	Upload image files or a folder
-	3.	Click start
-	4.	For each match, click the one you prefer
+- Choose a round size
+- Upload image files or a folder
+- Click start
+- For each match, click the one you prefer
 
 Features
 
-	•	Korean / English / Japanese language support
-	•	Dark/light theme
-	•	Automatic byes and preliminary matches
-	•	Folder structure preserved on upload
-	•	Mobile responsive
+- Korean / English / Japanese language support
+- Dark/light theme
+- Automatic byes and preliminary matches
+- Folder structure preserved on upload
+- Mobile responsive
 	
 Try it in your browser
